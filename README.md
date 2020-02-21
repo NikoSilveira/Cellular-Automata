@@ -1,2 +1,2 @@
-# Cellular-Automata
-Cellular Automata Simulator - Object-Oriented Programming Project
+# Cellular-Automaton
+Cellular Automaton Simulator - Object-Oriented Programming Project
